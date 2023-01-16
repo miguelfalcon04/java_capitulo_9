@@ -12,7 +12,8 @@ public class PruebaCaballo {
     System.out.println("Hola, me llamo " + a.getNombre());
     a.cabalga();
     a.relincha();
-        
+    System.out.println("Soy de color " + a.getColor());
+
     System.out.println("Hola, yo soy " + l.getNombre());
     l.rumia();
     l.cabalga();
