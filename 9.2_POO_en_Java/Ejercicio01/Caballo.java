@@ -13,7 +13,11 @@ public class Caballo {
     }
 
     public String getNombre() {
-    return this.nombre;
+        return this.nombre;
+    }
+
+    public String getColor(){
+        return this.color;
     }
 
     public void cabalga() {
